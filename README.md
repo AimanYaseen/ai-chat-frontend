@@ -2,7 +2,7 @@
 
 React Native mobile application for chatting with an AI assistant.
 
-![App Screenshot](assets/screenshot.png) <!-- Add a screenshot if available -->
+![App Screenshot](assets/AppSS.jpeg) <!-- Add a screenshot if available -->
 
 ## Features
 - Real-time chat interface
